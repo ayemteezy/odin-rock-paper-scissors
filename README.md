@@ -111,13 +111,17 @@ You only need a modern web browser (Google Chrome, Mozilla Firefox, Microsoft Ed
 ### Installation
 
 1. Clone the repository:
+
    ```sh
    git clone https://github.com/ayemteezy/odin-rock-paper-scrissors.git
    ```
+
 2. Navigate to the project directory:
+
    ```sh
    cd odin-rock-paper-scrissors
    ```
+
 3. Open `index.html` in your web browser.
 4. Open your browser's Developer Tools Console to play:
    - Press `F12` or `Ctrl + Shift + I` (Windows/Linux)
@@ -166,7 +170,7 @@ Don't forget to give the project a star! Thanks again!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### Top contributors:
+### Top contributors
 
 <a href="https://github.com/ayemteezy/odin-rock-paper-scrissors/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=ayemteezy/odin-rock-paper-scrissors" alt="contrib.rocks image" />
@@ -184,7 +188,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Laurence Lester Cariño (Teezy) - [@ayemteezy\_](https://x.com/ayemteezy_) - laurencelestercarino@gmail.com
+Laurence Lester Cariño (Teezy) - [@ayemteezy\_](https://x.com/ayemteezy_) - <laurencelestercarino@gmail.com>
 
 Project Link: [https://github.com/ayemteezy/odin-rock-paper-scrissors](https://github.com/ayemteezy/odin-rock-paper-scrissors)
 
