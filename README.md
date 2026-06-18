@@ -146,8 +146,8 @@ You only need a modern web browser (Google Chrome, Mozilla Firefox, Microsoft Ed
 - [x] Functional pseudocode architecture mapping
 - [x] Input normalization loops (Case insensitivity)
 - [x] Crash-preventative handling for user cancellations
-- [ ] Transition game logic from Console to Graphic User Interface (GUI)
-- [ ] Add visual choice tracking buttons using the DOM API
+- [x] Transition game logic from Console to Graphic User Interface (GUI)
+- [x] Add visual choice tracking buttons using the DOM API
 
 See the [open issues](https://github.com/ayemteezy/odin-rock-paper-scrissors/issues) for a full list of proposed features (and known issues).
 
